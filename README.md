@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nicki-lombardo
+- 👋 Hi, I’m @Nicky-lombardo
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python in DCI, Berlin
 - 💞️ I’m looking to collaborate on Python project for DCI, Berlin
